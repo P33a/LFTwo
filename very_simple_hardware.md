@@ -33,6 +33,7 @@ This version uses the following hardware:
 
    The front slider uses two 2.5 x 12 self-tapping screws and M3 washers
    ![motor](Images/IMG20251205043655.jpg)
+   The IR Line Sensor is attached to the chassis using two 2 x 10  self-tapping screws 
    ![motor](Images/IMG20251205044459.jpg)
 
    The TOF sensor is held with two 2 x 10 self-tapping screws and its support uses two 2 x 12 self-tapping screws
