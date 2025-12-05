@@ -4,6 +4,7 @@ This version uses the following hardware:
  * [Waveshare Tracker Sensor Module](https://www.waveshare.com/wiki/Tracker_Sensor)
 
    The Shield should have a small wire to expose the Vin voltage in one unused pin.
+   
    ![Modification](Images/IMG_20251205_033741.jpg)
 
    To build the robot you must plug in the motor wires.
@@ -22,12 +23,12 @@ This version uses the following hardware:
    ![motor](Images/IMG20251205041157.jpg)
    ![motor](Images/IMG20251205041448.jpg)
 
-   The dc motor driver uses s special support and two 2 x 10 self-tapping screws
+   The DC motor driver uses a special support and two 2 x 10 self-tapping screws
    ![motor](Images/IMG20251205042641.jpg)
    ![motor](Images/IMG20251205042753.jpg)
    ![motor](Images/IMG20251205043000.jpg)
 
-   The wheels are hels inplace with the heklp of two M3 x 10 screws
+   The wheels are held in place with the help of two M3 x 10 screws
    ![motor](Images/IMG20251205043224.jpg)
 
    The front slider uses two 2.5 x 12 self-tapping screws and M3 washers
@@ -38,7 +39,7 @@ This version uses the following hardware:
    ![motor](Images/IMG20251205045108.jpg)
    ![motor](Images/IMG20251205052708.jpg)
 
-   This cocludes the mechanical assembly of our robot.
+   This concludes the mechanical assembly of our robot.
 
    
    
